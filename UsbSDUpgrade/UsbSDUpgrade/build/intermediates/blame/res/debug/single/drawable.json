@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_usb.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\icon_usb.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\upgrade_cancel.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\upgrade_cancel.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\block_drawable_white.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\block_drawable_white.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\enter.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\enter.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\litter_zip.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\litter_zip.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\block_drawable_blue.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\block_drawable_blue.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\dialog_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\downloading.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\downloading.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\upgrade_tip.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\upgrade_tip.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\upgrade_yes.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\upgrade_yes.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_title.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\ic_title.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\drawable\\upgrade_yes_no_bg.png",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\drawable\\upgrade_yes_no_bg.png"
+    }
+]

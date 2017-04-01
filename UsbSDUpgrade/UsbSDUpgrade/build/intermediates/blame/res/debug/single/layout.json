@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\downloadprogress.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\downloadprogress.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\upgrade_tip_dialog_layout.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\upgrade_tip_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\medium_text.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\medium_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\update_checking.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\update_checking.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\large_text.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\large_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\showdownloading_layout.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\showdownloading_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\downloadactivity.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\downloadactivity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\upgrade_dialog_layout.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\upgrade_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\install_ota.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\install_ota.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\build\\intermediates\\res\\merged\\debug\\layout\\downloading_ico_dialog_layout.xml",
+        "source": "E:\\AndroidStudioProjects\\UsbSDUpgrade\\UsbSDUpgrade\\src\\main\\res\\layout\\downloading_ico_dialog_layout.xml"
+    }
+]
